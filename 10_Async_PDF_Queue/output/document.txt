@@ -1,0 +1,5 @@
+Day 10 Async PDF Processing
+This is a test PDF for my Hybrid RAG project.
+The worker will extract this text.
+PDF processing is working successfully.
+

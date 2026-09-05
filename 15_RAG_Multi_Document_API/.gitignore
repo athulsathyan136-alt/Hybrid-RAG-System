@@ -1,0 +1,23 @@
+# Virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+
+# Uploaded documents
+uploads/
+
+# Generated vector database
+data/
+
+# IDE
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db

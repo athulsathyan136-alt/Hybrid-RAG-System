@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+sqlalchemy
+sentence-transformers
+faiss-cpu
+transformers==5.16.1
+torch

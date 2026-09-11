@@ -215,9 +215,3 @@ This project is part of the Hybrid RAG System portfolio.
 ## Author
 
 Athul Sathyan
-
-GitHub: https://github.com/athulsathyan136-alt
-
-## License
-
-This project is created for educational and portfolio purposes.
